@@ -40,6 +40,10 @@ footer nav {
 	color: #dbdcdd;
 }
 
+nav a:hover {
+	color: black;
+}
+
 h3 {
 	margin-top: 50px;
 	margin-bottom: 10px;
